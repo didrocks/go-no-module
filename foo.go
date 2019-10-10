@@ -1,5 +1,5 @@
 package foo
 
-func foo() int {
+func Foo() int {
 	return 1
 }
